@@ -2,6 +2,8 @@
 
 This is a simple command-line application that fetches and displays the recent public activity of a specified GitHub user using the GitHub API. The application runs from the command line, accepts a GitHub username as an argument, and handles errors gracefully.
 
+Task from : https://roadmap.sh/projects/github-user-activity
+
 ## Features
 
 - **Fetch Recent GitHub Activity**: Retrieves up to 10 of the most recent public events for a specified GitHub user.
