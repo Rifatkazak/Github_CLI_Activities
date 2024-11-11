@@ -26,18 +26,18 @@ The script uses the GitHub API to fetch the public activity of a user:
 
 1. **Clone or Download the Project**:
     ```bash
-    git clone https://github.com/Rifatkazak/Projects-Task-Tracker.git
-    cd Projects-Task-Tracker
+    git clone https://github.com/Rifatkazak/Github_CLI_Activities
+    cd Github_CLI_Activities
     ```
 
 2. **Run the Script**:
     Use the following command format to run the script:
     ```bash
-    python Github_user_activity.py <github_username>
+    python github_activities.py <github_username>
     ```
 
 ### Examples
 
 ```bash
 # Fetch recent activity for the user 'cat'
-python Github_user_activity.py cat
+python github_activities.py cat
